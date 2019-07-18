@@ -2,8 +2,9 @@ Package: moreRutilspls
 Type: Package
 Title: Collection of Important Functions I Use Regularly and Are Not Part of Base R
 Version: 0.1.0
-Author: Helge Bruegner [aut,cre]
-Description: A collection of R functions that I often need but are not part of base R
+Author: person("Helge", "Bruegner", email = "helge@bruegner.de", role = c("aut", "cre"))
+Maintainer: Helge Bruegner <helge@bruegner.de>
+Description: A collection of R functions that I use regularly but are not part of base R
 License: MIT
 Encoding: UTF-8
 LazyData: true
