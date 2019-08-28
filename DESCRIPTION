@@ -1,4 +1,4 @@
-Package: moreRutilspls
+Package: moreRutils
 Type: Package
 Title: Collection of Important Functions I Use Regularly and Are Not Part of Base R
 Version: 0.1.0
@@ -9,3 +9,10 @@ License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
+Imports:
+  dplyr,
+  tidyr,
+  ggplot2
+Suggests:
+  roxygen2,
+  testthat
